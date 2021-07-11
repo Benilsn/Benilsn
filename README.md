@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🌱  i'm a programming student, looking forward for new things to learn!
+- 🔭  Currently learning Java.
 <br>
+
 
 ## Connect with me
 
