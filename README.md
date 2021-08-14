@@ -11,7 +11,7 @@
 <br>
 ## Expertise
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive"/>]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive">]
 
 
 
