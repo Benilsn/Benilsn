@@ -11,7 +11,7 @@
 <br>
 ## Expertise
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive">] [<img align="left" alt="medium" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive">]   [<img align="left" alt="medium" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">] [<img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white">]
 
 
 
