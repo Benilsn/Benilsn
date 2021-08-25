@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱  i'm a programming student, looking forward for new things to learn!
-- 🔭  Currently studying .NET and C#.
+- 🔭  Currently studying .NET, C# and MySql.
 <br>
 
 ## Connect with me
