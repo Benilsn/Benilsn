@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱  i'm a programming student, looking forward for new things to learn!
-- 🔭  Currently studying .NET.
+- 🔭  Currently studying .NET and C#.
 <br>
 
 ## Connect with me
@@ -14,7 +14,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
-<img align="left" alt="medium" src="https://img.shields.io/badge/csharp%20-%236DB33F.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/csharp%20-%2343153D.svg?&style=for-the-badge&logo=csharp&logoColor=incative" />
 
 
 
