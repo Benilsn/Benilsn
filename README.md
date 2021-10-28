@@ -9,7 +9,7 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benilson-monteiro-37b6711a7/)
 <br>
 <br>
-## Knowledge
+## Expertise
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=incactive"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
