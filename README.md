@@ -1,7 +1,9 @@
 # Olá, Me chamo Benilson 👨🏻‍💻
 
 :star: Desenvolvedor Back-end!
+<br>
 :star: Sou uma pessoa curiosa, que adora aprender novas tecnologias.
+<br>
 :star: Estudante de Analise e Desenvolvimento de Sistemas.
 <br>
 
@@ -13,6 +15,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/.net%20-256.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
 
+<br>
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benilson-monteiro-37b6711a7/)
