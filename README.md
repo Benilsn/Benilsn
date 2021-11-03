@@ -11,7 +11,7 @@
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/csharp%20-%2343153D.svg?&style=for-the-badge&logo=csharp&logoColor=incative" />
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=Orange"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=orange"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 
