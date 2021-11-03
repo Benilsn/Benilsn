@@ -14,6 +14,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/.net%20-256.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
+<img align="center" style="margin-bottom: 10px" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 <br><br>
 ## Connect with me
