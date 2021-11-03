@@ -9,7 +9,7 @@
 
 ## Expertise
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/csharp%20-%2343153D.svg?&style=for-the-badge&logo=c-sharp&logoColor=incative" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/c-sharp%20-%2343153D.svg?&style=for-the-badge&logo=c-sharp&logoColor=incative" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/C%2343153D-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 
