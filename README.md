@@ -2,7 +2,7 @@
 
 :star: Desenvolvedor Back-end!
 <br>
-:star: Sou uma pessoa curiosa, que adora aprender novas tecnologias.
+:star: Adoro desenvolvimento em camadas!
 <br>
 :star: Estudante de Analise e Desenvolvimento de Sistemas.
 <br>
