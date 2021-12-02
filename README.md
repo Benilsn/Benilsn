@@ -13,11 +13,11 @@
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
-
 <img align="left" alt="medium" src="https://img.shields.io/badge/C%23-%2343153D.svg?&style=for-the-badge&logo=c-sharp&logoColor=incative"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/.net%20-256.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img align="left" alt="medium" src="https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
 
