@@ -9,6 +9,8 @@
 
 ## Expertise
 
+## Connect with me
+
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%23ffffff.svg?&style=for-the-badge&logo=java&logoColor=red"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
