@@ -9,8 +9,6 @@
 
 ## Expertise
 
-## Connect with me
-
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%23ffffff.svg?&style=for-the-badge&logo=java&logoColor=red"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
@@ -34,7 +32,8 @@
 <a href = "https://www.linkedin.com/in/benilson-monteiro-37b6711a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br>
-## Connect with me
+<br>
+## Activity
 <br>
 <div>
   <a href="https://github.com/Benilsn">
