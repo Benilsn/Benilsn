@@ -32,7 +32,7 @@
 <a href = "https://www.linkedin.com/in/benilson-monteiro-37b6711a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br>
-## Activity
+## Connect with me
 <br>
 <div>
   <a href="https://github.com/Benilsn">
