@@ -2,8 +2,6 @@
 
 :star: Desenvolvedor Back-end!
 <br>
-:star: Adoro desenvolvimento em camadas!
-<br>
 :star: Conhecimento básico em Front-end.
 <br>
 :star: Estudante de Analise e Desenvolvimento de Sistemas.
