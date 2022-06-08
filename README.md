@@ -1,10 +1,10 @@
 # Olá, Me chamo Benilson  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45em">
  
-:star: Desenvolvedor Back-end!
+:star: Back-end Developer!
 <br>
-:star: Conhecimento básico em Front-end.
+:star: Basic knowledge in Front-end.
 <br>
-:star: Estudante de Analise e Desenvolvimento de Sistemas.
+:star: System analysis and development student.
 <br>
 
 <div>
