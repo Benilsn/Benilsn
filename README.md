@@ -24,6 +24,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/asp.net%20-8A2BE2.svg?&style=for-the-badge&logo=asp.net&logoColor=white"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <br>
 <br>
 <div>
