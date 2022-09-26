@@ -17,14 +17,19 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%23ffffff.svg?&style=for-the-badge&logo=java&logoColor=red"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
+
+<!-- C# BADGES
 <img align="left" alt="medium" src="https://img.shields.io/badge/C%23-%2343153D.svg?&style=for-the-badge&logo=c-sharp&logoColor=incative"/>
-
 <img align="left" alt="medium" src="https://img.shields.io/badge/.net%20-256.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
-
 <img align="left" alt="medium" src="https://img.shields.io/badge/asp.net%20-8A2BE2.svg?&style=for-the-badge&logo=asp.net&logoColor=white"/>
+-->
 
+<img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Python-010101?style=for-the-badge&logo=python&logoColor=blue"/>
+
 <br>
 <br>
 <div>
