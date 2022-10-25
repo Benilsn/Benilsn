@@ -1,8 +1,6 @@
 # Olá, Me chamo Benilson  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45em">
  
-:star: Back-end Developer!
-<br>
-:star: Basic knowledge in Front-end.
+:star: FullStack Developer!
 <br>
 :star: System analysis and development student.
 <br>
