@@ -15,7 +15,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="medium" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 <!-- C# BADGES
 <img align="left" alt="medium" src="https://img.shields.io/badge/C%23-%2343153D.svg?&style=for-the-badge&logo=c-sharp&logoColor=incative"/>
