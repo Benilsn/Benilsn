@@ -9,10 +9,15 @@
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/java%20-%23ffffff.svg?&style=for-the-badge&logo=java&logoColor=red"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"/>
+
+<br><br>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/%20Camel-FF6F00?style=for-the-badge&logo=apache"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+
+<br><br>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
