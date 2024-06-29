@@ -11,7 +11,7 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/spring-%2344753D.svg?&style=for-the-badge&logo=spring&logoColor=incative"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="medium" src="https://img.shields.io/badge/%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 <br><br>
 
