@@ -46,7 +46,7 @@
 ## Connect with me :
 
 <a href = "https://wa.me/5511985166315/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="__blank"></a>
-<a href = "https://www.linkedin.com/in/benilson-monteiro-37b6711a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>
+<a href = "https://www.linkedin.com/in/benilson-de-souza-monteiro-37b6711a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>
 
 
 
