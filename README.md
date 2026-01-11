@@ -4,7 +4,7 @@ I specialize in **Spring Boot, Quarkus, Apache Camel, and Cloud solutions**, wit
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 #### ⚙️ Backend
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23ffffff.svg?style=for-the-badge&logo=java&logoColor=red"/>
