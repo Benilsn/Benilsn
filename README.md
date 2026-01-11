@@ -41,7 +41,7 @@ I specialize in **Spring Boot, Quarkus, Apache Camel, and Cloud solutions**, wit
 
 ### 📊 GitHub Stats
 <a href="https://github.com/Benilsn">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Benilsn&layout=compact&theme=radical" alt="Benilsn Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Benilsn&layout=compact&theme=vision-friendly-dark" alt="Benilsn Top Languages" />
 </a>
 
 <br><br>
