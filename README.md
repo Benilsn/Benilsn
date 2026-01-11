@@ -7,9 +7,9 @@ I specialize in **Spring Boot, Quarkus, Apache Camel, and Cloud solutions**, wit
 ### 🛠️ Tech Stack
 
 #### ⚙️ Backend
-<img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23ffffff.svg?style=for-the-badge&logo=java&logoColor=red"/>
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=red"/>
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img align="left" alt="Apache Camel" src="https://img.shields.io/badge/Apache_Camel-FF6F00?style=for-the-badge&logo=apache"/>
+<img align="left" alt="Apache Camel" src="https://img.shields.io/badge/Apache%20Camel-ED8B00?style=for-the-badge&logo=ocaml&logoColor=white"/>
 <img align="left" alt="Quarkus" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus"/>
 
 <br><br>
