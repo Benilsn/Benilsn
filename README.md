@@ -1,6 +1,9 @@
 ## 👋 Hello there! 
-I'm Benilson, a passionate **Java Backend Developer** building scalable backend and integration solutions.  
-I specialize in **Spring Boot, Quarkus, Apache Camel, and Cloud solutions**, with experience in test automation using Selenium and Cucumber.  
+I'm Benilson, a passionate **Java Backend Developer**.
+I help businesses build reliable backend systems using Java.
+Experienced in REST APIs, system integration, microservices, and test automation.
+
+Strong background with Spring Boot, Quarkus, Apache Camel, and cloud environments.
 
 ---
 
