@@ -30,6 +30,7 @@ I specialize in **Spring Boot, Quarkus, Apache Camel, and Cloud solutions**, wit
 #### 🏗️ Build & Messaging
 <img align="left" alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img align="left" alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img align="left" alt="Kafka" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 <br><br>
 
