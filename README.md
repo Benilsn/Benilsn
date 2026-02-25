@@ -6,7 +6,7 @@ I help businesses build reliable backend systems using Java.
 ---
 
 <details>
-  <summary><strong>🛠️ Tech Stack (Click to expand)</strong></summary>
+  <summary><strong>🛠️ Tech Stack</strong></summary>
   <br>
 
   ### ⚙️ Backend
